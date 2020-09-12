@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_main"
+        android:icon="@drawable/ic_baseline_home"
+        android:title="List"/>
+
+    <item
+        android:id="@+id/navigation_sub01"
+        android:icon="@drawable/ic_baseline_filter_1"
+        android:title="Add item"/>
+
+    <item
+        android:id="@+id/navigation_sub02"
+        android:icon="@drawable/ic_baseline_filter_2"
+        android:title="Add item"/>
+</menu>
